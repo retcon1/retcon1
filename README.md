@@ -13,6 +13,7 @@ I'm a JavaScript developer who is currently learning TypeScript and working on w
 
 - JavaScript
 - TypeScript
+- Java
 - PSQL
 - MongoDB
 - HTML
